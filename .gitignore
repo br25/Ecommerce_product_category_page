@@ -5,8 +5,6 @@ env/
 # Ignore log files
 *.log
 
-# Ignore database files
-db.sqlite3
 
 # Ignore Python bytecode files
 __pycache__/
