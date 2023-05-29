@@ -1,0 +1,86 @@
+[
+    {
+        "model": "app.product",
+        "pk": 1,
+        "fields": {
+            "image": "/images/product.jpg",
+            "name": "Power Bank",
+            "category": "Power Bank",
+            "brand": "Geeco",
+            "warranty": "2",
+            "seller": 1,
+            "price": "3000.00",
+            "is_liked": true
+        }
+    },
+    {
+        "model": "app.product",
+        "pk": 2,
+        "fields": {
+            "image": "/images/product1.jpg",
+            "name": "Sonic Bass",
+            "category": "Earphone",
+            "brand": "Anker",
+            "warranty": "2",
+            "seller": 1,
+            "price": "900.00",
+            "is_liked": true
+        }
+    },
+    {
+        "model": "app.product",
+        "pk": 3,
+        "fields": {
+            "image": "/images/product2.webp",
+            "name": "Mcdodo HP 3500",
+            "category": "Earphone",
+            "brand": "Awei",
+            "warranty": "1",
+            "seller": 1,
+            "price": "500.00",
+            "is_liked": false
+        }
+    },
+    {
+        "model": "app.product",
+        "pk": 4,
+        "fields": {
+            "image": "/images/product3.jpg",
+            "name": "Plextone G3",
+            "category": "Earphone",
+            "brand": "Haylou",
+            "warranty": "1",
+            "seller": 1,
+            "price": "1800.00",
+            "is_liked": false
+        }
+    },
+    {
+        "model": "app.product",
+        "pk": 5,
+        "fields": {
+            "image": "/images/smartphone.webp",
+            "name": "Redmi 10",
+            "category": "SmartPhone",
+            "brand": "Xiaomi",
+            "warranty": "2",
+            "seller": 1,
+            "price": "20000.00",
+            "is_liked": false
+        }
+    },
+    {
+        "model": "app.product",
+        "pk": 6,
+        "fields": {
+            "image": "/images/smartphone2.webp",
+            "name": "Redmi 11",
+            "category": "SmartPhone",
+            "brand": "Xiaomi",
+            "warranty": "2",
+            "seller": 1,
+            "price": "50000.00",
+            "is_liked": true
+        }
+    }
+]
