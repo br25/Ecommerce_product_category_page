@@ -1,0 +1,1 @@
+web: gunicorn Ecommerce_product_category_page.wsgi
